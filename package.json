@@ -97,7 +97,7 @@
     "babel-plugin-dynamic-import-webpack": "^1.1.0",
     "babel-plugin-import": "1.13.0",
     "clean-webpack-plugin": "^0.1.19",
-    "compressing": "^1.5.1",
+    "compressing": "^1.10.5",
     "concurrently": "5.1.0",
     "cross-env": "^7.0.3",
     "css-loader": "^0.28.11",
